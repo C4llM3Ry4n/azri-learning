@@ -1,2 +1,2 @@
 # azri-learning
-Repository untuk bahan belajar &amp; materi gue hehe.
+Repository untuk bahan belajar & materi tentang coding dan hacking.
